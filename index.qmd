@@ -1,0 +1,15 @@
+---
+title: "Homepage"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: "#034564"
+title-block-banner-color: "#E4E4E5"
+---
+
+
