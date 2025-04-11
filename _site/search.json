@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "posts/intro/index.html",
+    "href": "posts/intro/index.html",
+    "title": "A deficiência como um objeto de estudo das ciências sociais",
+    "section": "",
+    "text": "Estamos, mais do que nunca, em um contexto no qual falar sobre as chamadas deficiências é cada vez mais central para as políticas públicas mundo afora. De acordo com dados da ONU, possuímos cerca de xx milhões de PCDs no mundo, um número que, sem dúvidas, nos induz a pensar em meios efetivos de integração desta população à sociedade em suas inúmeras dimensões."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a Sociology researcher based in Brazil. Currently working at Ipea. I hope to keep this page as a space to link together all my contributions with research, code and new ideas. You can reach me through: gabriel.ferreira@ipea.gov.br"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversidade Federal do Paraná | Curitiba, PR | MsC in Sociology | 2020\nUniversidade Federal do Paraná | Curitiba, PR | B.A in Social Science | 2018"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nIpea | Brasília, DF | Técnico de Planejamento e Pesquisa | Diretoria de Estudos Setoriais - DISET | 2024"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Homepage",
+    "section": "",
+    "text": "A deficiência como um objeto de estudo das ciências sociais\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 3, 2025\n\n\nGabriel Pistelli Ferreira\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 3, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 31, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  }
+]

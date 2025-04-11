@@ -1,9 +1,9 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "A deficiência como objeto de estudo das ciências sociais e alvo de políticas públicas"
+author: "Gabriel Pistelli Ferreira"
 date: "2025-02-03"
 categories: [news, code, analysis]
-image: "image.jpg"
+image: "image.png"
 ---
 
-This post is a first one. Maybe it could mean something. Or nothing, actually.
+Estamos, mais do que nunca, em um contexto no qual falar sobre as chamadas deficiências é cada vez mais central para as políticas públicas mundo afora. De acordo com dados da ONU, possuímos cerca de xx milhões de PCDs no mundo, um número que, sem dúvidas, nos induz a pensar em meios efetivos de integração desta população à sociedade em suas inúmeras dimensões.
